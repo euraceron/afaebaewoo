@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiecheegho.yc2017-hope.com/sitemap.xml
